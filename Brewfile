@@ -123,6 +123,7 @@ cask 'zoom'
 
 # fonts.
 cask 'font-fira-code'
+cask 'font-monaspace'
 cask 'font-open-sans'
 cask 'font-roboto-mono'
 cask 'font-source-code-pro'
