@@ -157,3 +157,4 @@ mas 'Pixelmator Pro', id: 1289583905
 # mas 'AutoMounter', id: 1160435653
 # mas 'Encrypto', id: 935235287
 # mas 'Filebot', id: 905384638
+# mas 'NextDNS', id: 1464122853
