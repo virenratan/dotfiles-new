@@ -194,6 +194,9 @@ main
 # fish config.
 ln -s ~/Projects/dotfiles/fish/ ~/.config
 
+# 1password ssh config.
+ln -s ~/Projects/dotfiles/1Password/ ~/.config
+
 # personal settings from icloud drive.
 ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/System/.extra ~/.extra
 ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/System/.gitconfig.local ~/.gitconfig.local
