@@ -7,6 +7,7 @@ tap 'homebrew/cask-drivers'
 tap 'homebrew/cask-fonts'
 tap 'homebrew/services'
 # tap 'homebrew/versions'
+tap 1password/tap
 tap 'buo/cask-upgrade'
 # tap' mas-cli/tap'
 
@@ -89,6 +90,7 @@ brew 'zopfli'
 # brew 'weaveworks/tap/eksctls'
 
 cask '1password'
+cask '1password-cli'
 cask 'abstract'
 # cask 'atom'
 cask 'bartender'
